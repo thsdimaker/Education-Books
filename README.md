@@ -15,9 +15,29 @@ Why?
 
 - 책
 
+(1)
+
 ![123](https://user-images.githubusercontent.com/59603054/118963495-73e20e80-b9a1-11eb-8a2b-ec4b5adb1cd7.jpg)
 
 
 * Clean Code
 
-(저자: 로버트 C. 마틴, 출판 : 인사이트)
+(로버트 C. 마틴, 인사이트)
+
+
+핵심
+
+: 
+
+(2)
+
+![123](https://user-images.githubusercontent.com/59603054/118963691-ab50bb00-b9a1-11eb-96f9-22e40f3e0a0b.jpg)
+
+
+* 라프 코스터의 재미이론
+
+(라프코스터, 길벗)
+
+핵심
+
+:
